@@ -1,9 +1,0 @@
-..\obj\dns.o: ..\HARDWARE\scr\dns.c
-..\obj\dns.o: H:\Keil_v5a\ARM\ARMCC\Bin\..\include\string.h
-..\obj\dns.o: H:\Keil_v5a\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\dns.o: ..\HARDWARE\inc\socket.h
-..\obj\dns.o: ..\HARDWARE\inc\wizchip_conf.h
-..\obj\dns.o: H:\Keil_v5a\ARM\ARMCC\Bin\..\include\stdint.h
-..\obj\dns.o: ..\HARDWARE\inc\w5500.h
-..\obj\dns.o: ..\HARDWARE\inc\wizchip_conf.h
-..\obj\dns.o: ..\HARDWARE\inc\dns.h
